@@ -1,0 +1,14 @@
+.breeds {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 5%;
+}
+
+.breed-img {
+    padding: 20px 0;
+}
+.breed-img img {
+    width: 40%;
+    height: 200px;
+    object-fit: contain;
+}
